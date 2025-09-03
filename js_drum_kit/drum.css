@@ -1,0 +1,21 @@
+div{
+   border-radius: 10%;
+   border: 2px solid  grey;
+   width:100px;
+   height:100px;
+   padding: 30px;
+   text-align: center;
+   text-transform: uppercase;
+   font-size: large;
+
+}
+
+#drum-pad-container{
+    flex-direction: row;
+    display: flex;
+    gap: 10px;
+}
+
+body{
+    background-color: gray;
+}
